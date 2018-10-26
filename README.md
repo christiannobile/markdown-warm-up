@@ -9,7 +9,7 @@ De website zelf wordt niet bijgewerkt maar de forum is wel actief.
 ## Waarom heeft deze website updates of een remake nodig?
 De website heeft een slechte opmaak en lijkt nog te komen van voor 2010.  
 ## Is deze website aanwezig op sociale netwerken?
-Ja op facebook [linkje](https://www.facebook.com/groups/274425042919820/)  
+Ja op [facebook](https://www.facebook.com/groups/274425042919820/)  
 ## Maak een lijst met aanbevelingen van toekomstige wijzigingen.  
  * Probeer 1 type font te gebruiken.
  * Gif header vervangen.
