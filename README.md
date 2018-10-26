@@ -15,4 +15,4 @@ Ja op [facebook](https://www.facebook.com/groups/274425042919820/)
  * Gif header vervangen.
  * Navigatie is onduidelijk.
  * Verschillende nuteloze modules.  
-##Per groep, presenteer je de Markdown en de website aan iedereen.  
+## Per groep, presenteer je de Markdown en de website aan iedereen.  
